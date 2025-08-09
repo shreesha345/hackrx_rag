@@ -1,0 +1,12 @@
+# Automatically generated from .gitignore for Docker context
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
+.vscode
+utils/stored_url.json
+test.py
+chroma_db/
